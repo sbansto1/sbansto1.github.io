@@ -4,7 +4,7 @@ body {
   font-family: "Inter", Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f4f6f8;
+  background: #e5e7eb;
   color: #1f2937;
   line-height: 1.7;
 }
@@ -37,7 +37,7 @@ p {
 }
 
 a {
-  color: #374151;
+  color: #2563eb;
   text-decoration: none;
   font-weight: 500;
 }
@@ -49,5 +49,5 @@ a:hover {
 footer {
   margin-top: 40px;
   padding-top: 20px;
-  border-top: 1px solid #d1d5db;
+  border-top: 1px solid #cbd5e1;
 }
